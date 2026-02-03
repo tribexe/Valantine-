@@ -1,0 +1,35 @@
+body {
+  background: pink;
+  text-align: center;
+  font-family: Arial;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+.box {
+  margin-top: 40px;
+  position: relative;
+  height: 200px;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+#yes {
+  background: green;
+  color: white;
+}
+
+#no {
+  background: red;
+  color: white;
+  position: absolute;
+  right: 20px;
+}
