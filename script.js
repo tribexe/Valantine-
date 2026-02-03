@@ -25,7 +25,7 @@ yesBtn.addEventListener("click", () => {
       <h1>Yayyy 💖</h1>
       <p style="font-size:22px;">
         I knew you would say YES 😍<br>
-        Happy Valentine’s Day 💘
+        Happy Valentine’s Day teena aunty 💘
       </p>
     </div>
   `;
